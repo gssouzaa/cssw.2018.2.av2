@@ -111,3 +111,11 @@ Capítulo/título do vídeo :
 2 - 
 3 - 
 
+Grupo 12 :
+---------
+Componentes: Gabriel Santana - gssouzaa / Tulio Vale - Tuliovale / Rafael Prado - Stradl1n / Pedro Loback - 
+Projeto: Projeto 1 - Google+
+Capítulo/título do vídeo :   
+1 - 
+2 - 
+3 - 
